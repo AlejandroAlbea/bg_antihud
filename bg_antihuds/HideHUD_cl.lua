@@ -14,7 +14,7 @@ local HUD_ELEMENTS = {
     HUD_FLOATING_HELP_TEXT_1 = { id = 11, hidden = false },
     HUD_FLOATING_HELP_TEXT_2 = { id = 12, hidden = false },
     HUD_CASH_CHANGE = { id = 13, hidden = true },
-    HUD_RETICLE = { id = 14, hidden = true },
+    HUD_RETICLE = { id = 14, hidden = false },
     HUD_SUBTITLE_TEXT = { id = 15, hidden = false },
     HUD_RADIO_STATIONS = { id = 16, hidden = false },
     HUD_SAVING_GAME = { id = 17, hidden = false },
